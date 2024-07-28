@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://miconock.github.io/sitemap.html.gz
+Sitemap: https://miconock.github.io/app/sitemap.html.gz
+Sitemap: https://miconock.github.io/assets/sitemap.html.gz
+Sitemap: https://miconock.github.io/css/sitemap.html.gz
+Sitemap: https://miconock.github.io/includes/sitemap.html.gz
+Sitemap: https://miconock.github.io/item/sitemap.html.gz
+Sitemap: https://miconock.github.io/src/sitemap.html.gz
